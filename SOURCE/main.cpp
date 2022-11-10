@@ -517,6 +517,11 @@ void readFile(int *&a, int &n, char *nameFile) {
     }
     file.close();
 }
+void printArray(int *a, int n ) {
+    for (int i = 0; i < n; i++) {
+        cout << a[i] << " ";
+    }
+}
 int main(int argc, char** argv)
 {
     int *arr;
