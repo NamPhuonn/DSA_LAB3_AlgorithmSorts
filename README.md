@@ -1,4 +1,4 @@
-# DSA_LAB3
+<h1 align="center"> DSA_LAB3</h1>
 ## Team members
 - 21120313_Trần Nam Phương
 - 21120317_Nguyễn Phan Anh Quốc
