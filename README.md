@@ -1,11 +1,11 @@
 <h1 align="center"> DSA_LAB3</h1>
-## Team members
+<h1> Team members </h1>
 - 21120313_Trần Nam Phương
 - 21120317_Nguyễn Phan Anh Quốc
 - 21120321_Nguyễn Văn Siêu
 - 21120322_Nguyễn Dương Trường Sinh
 
-## Projects Sorting Algorithms 
+<h1> Projects Sorting Algorithms </h1>
 Implement 11 Sorting Algorithms: 
 - Selection sort
 - Insertion sort
